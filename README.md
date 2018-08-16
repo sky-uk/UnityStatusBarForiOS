@@ -29,3 +29,5 @@ Unity plugin for ios to show/hide status bar
 		// else:UIStatusBarAnimationNone
 		StatusBarManager.BarAnim (anim);
 ```
+
+This is now not a Unity project and is instead used as a subrepo.
